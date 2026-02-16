@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: white;
+  text-align: center;
+}
+
+section {
+  padding: 80px 20px;
+}
+
+h1 {
+  font-size: 42px;
+}
+
+p {
+  max-width: 600px;
+  margin: 20px auto;
+  font-size: 18px;
+  color: #ccc;
+}
+
+button {
+  padding: 15px 40px;
+  font-size: 16px;
+  background: #e10600;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+video {
+  width: 80%;
+  max-width: 600px;
+  margin-top: 40px;
+  border-radius: 20px;
+}
+
+img {
+  width: 300px;
+  margin-top: 40px;
+  border-radius: 20px;
+}
